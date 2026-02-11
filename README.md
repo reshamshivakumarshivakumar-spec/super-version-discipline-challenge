@@ -1,4 +1,4 @@
-# Super Version Discipline Challenge
+# Super Version
 
 ## Overview
 The Super Version Discipline Challenge app is designed to help users maintain discipline and track their progress across various areas of their lives. Whether it's fitness, learning new skills, or managing daily tasks, this app serves as a comprehensive tool for self-improvement.
